@@ -10,7 +10,7 @@ const HomePage = () => {
       </div>
 
       {/* Jours de la semaine */}
-      {/*<div className="flex justify-between mb-6">
+      <div className="flex justify-between mb-6">
         {["M", "T", "W", "T", "F", "S", "S"].map((day, index) => (
           <div key={index} className="text-center">
             <div className="w-8 h-8 border-2 border-[#55AD9B] rounded-full"></div>
@@ -18,14 +18,11 @@ const HomePage = () => {
           </div>
         ))}
       </div>
-*/}
 
       {/* Liste des niveaux */}
       <div>
         <h2 className="text-xl font-semibold mb-2">Cards</h2>
         <div className="space-y-2">
-          Var Columns = require('react-columns');
-          function Component()
           {[
             { level: 1, frequency: "Everyday", color: "#D8EFD3", count: 2 },
             { level: 2, frequency: "Every 2 days", color: "#95D2B3", count: 0 },

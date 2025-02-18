@@ -1,3 +1,23 @@
+<<<<<<< HEAD
+# Getting Started with Create React App
+=======
+<<<<<<< HEAD
+# Leitners-memory
+La méthode Leitner est une méthode d'apprentissage basée sur la répétition espacée
+>>>>>>> f49275d (Test push after repository rename)
+
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+## Available Scripts
+
+In the project directory, you can run:
+
+<<<<<<< HEAD
+=======
+## Technologies
+- React
+- IndexedDB (Dexie.js) ( choisir entre local ou indexed).
+=======
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -6,6 +26,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
+>>>>>>> f49275d (Test push after repository rename)
 ### `npm start`
 
 Runs the app in the development mode.\
@@ -68,3 +89,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+<<<<<<< HEAD
+=======
+>>>>>>> 0f94a8d (first commit)
+>>>>>>> f49275d (Test push after repository rename)
